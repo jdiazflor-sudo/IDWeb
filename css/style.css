@@ -9,7 +9,7 @@ section {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(87, 71, 38);
     background-color: rgb(183, 144, 96);
-    border: 2px solid rgb(80, 11, 11);
+    border: 2px solid rgb(183, 144, 96);
     max-width: 750px;
     margin: 20px auto;
     padding: 60px;
@@ -54,3 +54,4 @@ img {
   padding-left: 800px;
   
 }
+
